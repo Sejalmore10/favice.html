@@ -1,2 +1,2 @@
 # favice.html
-this is powe bi end to end project
+This is powe bi end to end project
