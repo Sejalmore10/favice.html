@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    max-width: 100%;
+    background-image: url("https://tse2.mm.bing.net/th/id/OIP.Cj7Xq6_XxwYbqy3bavsqdgHaHa?w=626&h=626&rs=1&pid=ImgDetMain&o=7&rm=3");
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+.navbar {
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: yellow;
+    background-color: rgb(19, 95, 196);
+}
+
+h1 {
+    margin-top: 20px;
+
+}
+
+span {
+    color: rgb(157, 18, 250);
+    font-style: oblique;
+}
+
+.ice {
+    font-size: large;
+    font-weight: 700;
+    color: rgb(42, 19, 250);
+    margin-top: 3rem;
+    margin-left: 3rem;
+    padding: 12px 12px 12px;
+    font-size: 3.2rem;
+}
+
+button {
+    padding: 15px 15px;
+    border-radius: 50px;
+}
+
+button:hover {
+    background-color: rgb(189, 186, 186);
+}
+
+#ic3 {
+    color: rgb(0, 76, 175);
+    font-style: oblique;
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 12px;
+}
+
+.girl1 {
+    height: 200px;
+    width: 200px;
+    background-color: rgba(45, 108, 243, 0.89);
+    padding-top: 1.15px;
+    border-radius: 20px;
+    margin-left: 12px;
+    margin-top: 15px;
+    border: 3px solid black;
+}
+
+
+.girlice {
+    height: 150px;
+   max-width: 150px;
+    background-image: url("https://img.freepik.com/premium-photo/funny-little-girl-with-ice-cream-colored-background_974732-17070.jpg");
+    background-position: center;
+    border-radius: 50px;
+    background-size: cover;
+    overflow: hidden;
+    margin-left: 20px;
+    border: 3px solid black;
+    margin-top: 30px;
+}
+
+.popular {
+    font-size: 3rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    font-style: oblique;
+}
+
+.moreice2 {
+    height: 230px;
+    max-width: 380px;
+    background-color: red;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/026/829/972/non_2x/ice-cream-background-free-photo.jpeg");
+    background-position: center;
+    overflow: hidden;
+    background-size: cover;
+    border-radius: 30px;
+    border: 3px solid black;
+    margin-left: 2rem;
+    margin-top: 30px;
+
+}
+
+.moreice {
+    height: 250px;
+    max-width: 400px;
+    background-image: url("https://tse4.mm.bing.net/th/id/OIP.Z2rbbXU5A4uQHYJCzBRfoQHaF_?rs=1&pid=ImgDetMain&o=7&rm=3");
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    margin-top: 25px;
+    margin-bottom: 12px;
+    border-radius: 10%;
+    border: 3px solid black;
+    margin-left: 25px;
+}
+
+p {
+    color: steelblue;
+    font-weight: 700;
+    font-size: 2rem;
+    margin-left: 12px;
+}
+
+li {
+    color: purple;
+    font-style: italic;
+    font-weight: 600;
+    font-size: large;
+    margin-left: 10px;
+}
+
+.favice {
+    height: 200px;
+    max-width: 200px;
+    background-image: url("https://as2.ftcdn.net/v2/jpg/02/33/45/93/1000_F_233459399_wFuh9HV3dqrq7NR74KJ5COhd4asBZhuM.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-left: 5rem;
+    border-radius: 10%;
+    border: 3px solid black;
+    margin-bottom: 1rem;
+
+}
+
+#box {
+    color: rgb(35, 23, 204);
+    margin-top: 20px;
+    margin-left: 1rem;
+}
+
+#lveice {
+    height: 350px;
+    max-width: 380px;
+    background-image: url("https://thumbs.dreamstime.com/z/hand-holding-ice-cream-waffle-cone-vector-illustration-hands-different-flavours-white-background-90829615.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 10%;
+    border: 2px solid black;
+    margin:auto;
+    margin-bottom: 1rem;
+}
+
